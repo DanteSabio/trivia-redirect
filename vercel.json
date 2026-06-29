@@ -1,0 +1,9 @@
+{
+    "redirects": [
+          {
+                  "source": "/:path(.*)",
+                  "destination": "https://events.teams.microsoft.com/event/e758b55c-5d0a-4ba2-927d-1b5d090f9404@b7f3e298-3997-4694-b489-2f506b509754",
+                  "permanent": true
+          }
+    ]
+}
